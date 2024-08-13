@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b70e8c5d.css",
-    "main.js": "/static/js/main.41212501.js",
+    "main.css": "/static/css/main.1454fa98.css",
+    "main.js": "/static/js/main.7a285163.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/student.gif": "/static/media/student.c2d77242027e7f88d00d.gif",
     "static/media/transparent-linkedin-user-profile-full-stack-developer-earth-5f30e639aa8945.png": "/static/media/transparent-linkedin-user-profile-full-stack-developer-earth-5f30e639aa8945.4168187015970401856985.9080ef7dcb2521b7739f.png",
@@ -15,12 +15,12 @@
     "static/media/icons8-tik-tok.svg": "/static/media/icons8-tik-tok.14f350e3a13d061d74d4461c4c290703.svg",
     "static/media/icons8-tailwind-css.svg": "/static/media/icons8-tailwind-css.1ff53afb0748cd483d5f0ed13029f287.svg",
     "static/media/icons8-facebook.svg": "/static/media/icons8-facebook.1fc810a8e15c60ec41d7d0586cb4c1d5.svg",
-    "main.b70e8c5d.css.map": "/static/css/main.b70e8c5d.css.map",
-    "main.41212501.js.map": "/static/js/main.41212501.js.map",
+    "main.1454fa98.css.map": "/static/css/main.1454fa98.css.map",
+    "main.7a285163.js.map": "/static/js/main.7a285163.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b70e8c5d.css",
-    "static/js/main.41212501.js"
+    "static/css/main.1454fa98.css",
+    "static/js/main.7a285163.js"
   ]
 }
